@@ -4,7 +4,7 @@
 
 🦢 hs student   
 💌 i like collecting cute things <3  
-🪽 beginner @ electronics and coding  
+🪽 learning electronics and coding  
 
 🍰 working with : c++ , python , java  
 🍥 currently using : vscode , processing , arduino ide  
