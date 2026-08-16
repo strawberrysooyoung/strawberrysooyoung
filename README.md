@@ -8,4 +8,4 @@
 
 🍰 working with : c++ , python , java  
 🍥 currently using : vscode , processing , arduino ide  
-🍙 my linktree : [clickhere](pretendthisbringsyoutomylinktree)  
+🍙 my linktree : [clickhere](https://linktr.ee/cindyc2010)  
