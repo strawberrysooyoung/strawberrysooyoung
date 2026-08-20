@@ -6,6 +6,6 @@
 💌 i like collecting cute things !  
 🪽 bored always :')  
 
-🍰 learning/working with : c++ , python , java  
+🍰 learning : c++ , python , java  
 🍥 i use : vscode , processing , arduino ide  
 🍙 my linktree : [clickhere](https://linktr.ee/cindyc2010)  
